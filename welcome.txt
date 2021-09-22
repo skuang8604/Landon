@@ -1,1 +1,2 @@
 Hi Dear Michelle and Landon, this is the new file we just created for our repository
+This is to test if Michelle can see my file and receive the email.
